@@ -6,8 +6,8 @@
 >The theme was created by imfunniee and is called Fimbo(site 2).
 
 >TODO
-- [] Dark mode
-- [] Auto update renders
-- [] Video zoom
-- [] Hybrid resolutions when zoomed in and out
-- [] Domain
+- [ ] Dark mode
+- [ ] Auto update renders
+- [ ] Video zoom
+- [ ] Hybrid resolutions when zoomed in and out
+- [ ] Domain
