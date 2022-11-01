@@ -1,3 +1,4 @@
+
 var width = $(window).width(); 
 window.onscroll = function(){
 if ((width >= 1000)){
@@ -25,6 +26,7 @@ if ((width >= 1000)){
 }
 }
 
+//magnify the image when clicked/focus on the image
 function magnify(imglink){
     $("#img_here").css("background",`url('${imglink}') center center`);
     $("#magnify").css("display","flex");
@@ -34,6 +36,7 @@ function magnify(imglink){
     },800);
 }
 
+//function to close the magnified image/the X button's code
 function closemagnify(){
     $("#magnify").addClass("animated fadeOut");
     setTimeout(function(){
@@ -43,6 +46,7 @@ function closemagnify(){
     },800);
 }
 
+//animation
 setTimeout(function(){
     $("#loading").addClass("animated fadeOut");
     setTimeout(function(){
