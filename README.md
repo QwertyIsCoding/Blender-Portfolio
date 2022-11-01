@@ -6,8 +6,12 @@
 >The theme was created by imfunniee and is called Fimbo(site 2).
 
 >TODO
-- [ ] Dark mode
+- [X] Dark mode
 - [ ] Auto update renders
 - [ ] Video zoom
 - [ ] Hybrid resolutions when zoomed in and out
 - [ ] Domain
+
+-----------
+>TESTING
+There is also a testing branch where I test features out before publishing it to the final website. Again, the GitHub pages site is the most frequently updates site(in terms of features and testing) whereas the final version will be hosted on Netlify.
