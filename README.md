@@ -7,6 +7,7 @@
 
 >TODO
 - [X] Dark mode
+- [ ] Send email
 - [ ] Auto update renders
 - [ ] Video zoom
 - [ ] Hybrid resolutions when zoomed in and out
