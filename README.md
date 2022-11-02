@@ -10,6 +10,9 @@
 - [ ] Auto update renders
 - [ ] Video zoom
 - [ ] Hybrid resolutions when zoomed in and out
+- [ ] High rez images
+- [ ] Quicker loading time
+- [ ] Seperate videos and stills section
 - [ ] Domain
 
 -----------
