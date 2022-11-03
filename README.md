@@ -3,7 +3,7 @@
 
 >For the quickest updates, check out the GitHub pages build in environments.
 
->The theme was created by imfunniee and is called Fimbo(site 2).
+>The theme was created by imfunniee and is called Fimbo(site 2) but has been modified *heavily*.
 
 >TODO
 - [X] Dark mode
