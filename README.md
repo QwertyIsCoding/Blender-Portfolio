@@ -7,14 +7,14 @@
 
 >TODO
 - [X] Dark mode
+- [X] Video zoom
+- [X] Seperate videos and stills section
 - [ ] Send email
 - [ ] Auto update renders
-- [X] Video zoom
 - [ ] Add "load more videos" button
 - [ ] Hybrid resolutions when zoomed in and out
 - [ ] High rez images
 - [ ] Quicker loading time
-- [X] Seperate videos and stills section
 - [ ] Domain
 
 -----------
