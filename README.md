@@ -10,6 +10,7 @@
 - [ ] Send email
 - [ ] Auto update renders
 - [X] Video zoom
+- [ ] Add "load more videos" button
 - [ ] Hybrid resolutions when zoomed in and out
 - [ ] High rez images
 - [ ] Quicker loading time
