@@ -25,6 +25,7 @@ if ((width >= 1000)){
 }
 }
 
+//magnify the image when clicked/focus on the image
 function magnify(imglink){
     $("#img_here").css("background",`url('${imglink}') center center`);
     $("#magnify").css("display","flex");
@@ -34,6 +35,7 @@ function magnify(imglink){
     },800);
 }
 
+//function to close the magnified image/the X button's code
 function closemagnify(){
     $("#magnify").addClass("animated fadeOut");
     setTimeout(function(){
@@ -43,13 +45,14 @@ function closemagnify(){
     },800);
 }
 
+//animation
 setTimeout(function(){
     $("#loading").addClass("animated fadeOut");
     setTimeout(function(){
       $("#loading").removeClass("animated fadeOut");
       $("#loading").css("display","none");
-    },300);
-},600);
+    },800);
+},1650);
 
 $(document).ready(function(){
     $("a").on('click', function(event) {
@@ -64,44 +67,3 @@ $(document).ready(function(){
        } 
       });
   });
-  
-class Feed extends React.Component {
-  constructor(props) {
-    super(props);
-
-    this.state = {
-      items: [],
-      visible: 2,
-      error: false
-    };
-
-    this.loadMore = this.loadMore.bind(this);
-  }
-
-  loadMore() {
-    this.setState((prev) => {
-      return {visible: prev.visible + 4};
-    });
-  }
-
-  componentDidMount() {
-    fetch("https://jsonplaceholder.typicode.com/posts").then(
-      res => res.json()
-    ).then(res => {
-      this.setState({
-        items: res
-      });
-    }).catch(error => {
-      console.error(error);
-      this.setState({
-        error: true
-      });
-    });
-  }
-
-  
-    );
-  }
-}
-
-ReactDOM.render(<Feed />, document.getElementById('feed'));
