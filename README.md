@@ -13,6 +13,7 @@
 - [ ] Auto update renders
 - [ ] Add "load more videos" button
 - [ ] Hybrid resolutions when zoomed in and out
+- [ ] Dynamic loading
 - [X] High rez images
 - [ ] Quicker loading time
 - [ ] Domain
