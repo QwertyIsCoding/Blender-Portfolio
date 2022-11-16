@@ -15,7 +15,9 @@
 - [ ] Hybrid resolutions when zoomed in and out
 - [ ] Dynamic loading
 - [X] High rez images
-- [ ] Quicker loading time
+- [ ] Quicker loading time(full site)
+- [X] Fast loading of images
+- [ ] Fast loading videos
 - [ ] Domain
 
 -----------
