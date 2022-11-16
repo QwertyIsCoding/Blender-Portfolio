@@ -9,7 +9,7 @@
 - [X] Dark mode
 - [X] Video zoom
 - [X] Seperate videos and stills section
-- [ ] Send email
+- [X] Send email
 - [ ] Auto update renders
 - [ ] Add "load more videos" button
 - [ ] Hybrid resolutions when zoomed in and out
