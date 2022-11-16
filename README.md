@@ -18,7 +18,7 @@
 - [ ] Quicker loading time(full site)
 - [X] Fast loading of images
 - [ ] Fast loading videos
-- [ ] Domain
+- [ ] Custom domain
 
 -----------
 >TESTING
