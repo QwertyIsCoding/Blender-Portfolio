@@ -19,7 +19,7 @@
 - [X] High rez images
 - [ ] Quicker loading time(full site)
 - [X] Fast loading of images
-- [ ] Fast loading videos
+- [ ] Fast loading videos(Twitter embeds)
 - [ ] Custom domain
 
 -----------
