@@ -9,8 +9,6 @@ ________________________________________________________________________________
 
 >The theme was created by imfunniee and is called Fimbo(site 2) but has been modified *heavily*.
 
->The netlify build will be done every month. This way, development is steady and the live build will be regularly up to date.
-
 >TODO
 - [X] Dark mode
 - [X] Video zoom
