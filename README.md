@@ -1,11 +1,11 @@
 # Blender-Portfolio
 ## About the project
->This is a Blender portfolio where I can just showcase all my renders. But, just so you know, none of these images should be re-licensed or something of that sort. And DO NOT TRY TO REMOVE THE WATERMARK AND PASS IT OFF AS YOUR OWN.
+>This is a Blender portfolio where I can showcase all my renders. 
 ____________________________________________________________________________________________________________________________
 
 >This is the code for my Blender portfolio. 
 
->For the quickest updates, check out the GitHub pages build in environments.
+>For the quickest updates, check out the GitHub pages build in environments. The Netlify deployment is depreciated and I've moved it over to Floudflare Pages which has automatic deployments and will update within 3-5 minutes of the most recent update.
 
 >The theme was created by imfunniee and is called Fimbo(site 2) but has been modified *heavily*.
 
