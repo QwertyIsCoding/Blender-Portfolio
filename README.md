@@ -27,4 +27,4 @@ ________________________________________________________________________________
 -----------
 >MEDIA
 
->I currently have all the media off Twitter and it's easier for me to manage that way but the resolutions are absolutely tiny and compression just makes it worse. So, I'm planning to upload my renders to this branch but I want to make it so that the site's visitor can't right click and open the image in a new tab or copy the URL... so till then I'm gonna use the Twitter way since copying the file is useless since it so low rez
+>I currently have all the media off of twitter but I'm planning to move it here.
