@@ -20,11 +20,10 @@ ________________________________________________________________________________
 - [ ] Dynamic loading
 - [X] High rez images
 - [X] Quicker loading time(full site)
-- [X] Fast loading of images
+- [X] Fast loading images
 - [X] Fast loading videos(Twitter embeds)
 - [ ] Custom domain
 
 -----------
->TESTING
-
-There is also a testing branch where I test features out before publishing it to the final website. Again, the GitHub pages site is the most frequently updates site(in terms of features and testing) whereas the final version will be hosted on Netlify.
+>MEDIA
+I currently have all the media off Twitter and it's easier for me to manage that way but the resolutions are absolutely tiny and compression just makes it worse. So, I'm planning to upload my renders to this branch but I want to make it so that the site's visitor can't right click and open the image in a new tab or copy the URL... so till then I'm gonna use the Twitter way since copying the file is useless since it so low rez
