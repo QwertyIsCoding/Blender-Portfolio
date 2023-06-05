@@ -79,7 +79,7 @@ header table {
     transition:0.4s ease-in-out;
 }
 #magnify h1:hover{
-    color:rgb(255, 44, 90);
+    color:rgb(255, 255, 255);
     cursor:pointer;
 }
 #img_here {
@@ -117,7 +117,7 @@ header table {
 
 #portfolio h2 {
     word-wrap:break-word;
-    color:rgb(255, 44, 90);
+    color:rgb(255, 255, 255);
 }
 
 #about {
