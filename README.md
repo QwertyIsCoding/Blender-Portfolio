@@ -22,7 +22,7 @@ ________________________________________________________________________________
 - [X] Quicker loading time(full site)
 - [X] Fast loading images
 - [ ] Fast loading videos(Twitter embeds)
-- [ ] Custom domain
+- [X] Custom domain
 
 -----------
 >MEDIA
