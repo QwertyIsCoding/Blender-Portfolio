@@ -5,7 +5,7 @@ ________________________________________________________________________________
 
 >This is the code for my Blender portfolio. 
 
->For the quickest updates, check out the GitHub pages build in environments. The Netlify deployment is depreciated and I've moved it over to Floudflare Pages which has automatic deployments and will update within 3-5 minutes of the most recent update.
+>For the quickest updates, check out the GitHub pages build in environments. The Netlify deployment is depreciated and I've moved it over to Cloudflare Pages which has automatic deployments and will update within 3-5 minutes of the most recent update.
 
 >The theme was created by imfunniee and is called Fimbo(site 2) but has been modified *heavily*.
 
